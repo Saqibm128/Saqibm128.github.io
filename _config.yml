@@ -28,7 +28,7 @@ twitter_username: saqibm128
 github_username:  saqibm128
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme             : "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-feed
