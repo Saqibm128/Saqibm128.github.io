@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Lessons learned from my first year as a postbac"
+categories: postbac research
+---
 # Introduction
 
 As I complete my first year of my postbac, I thought it might be nice to go and make a list of lessons that I've learned during my time here at the NIH. A bit of background is probably necessary to fully understand my perspective.
