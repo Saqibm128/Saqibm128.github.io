@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Reasons Why I Want a PhD"
+date:   2022-08-07 15:07:21 -0400
 categories: postbac research
 ---
 # Note
