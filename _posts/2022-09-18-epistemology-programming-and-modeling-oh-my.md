@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Epistemological responsibility, programming, and modeling, oh my!"
-date:   2022-09-114 15:07:21 -0400
+date:   2022-09-18 15:07:21 -0400
 categories: rant
 ---
 
