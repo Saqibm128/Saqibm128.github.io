@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Resources for getting into machine learning and statistics"
 date:   2022-07-10 15:07:21 -0400
 categories: personal

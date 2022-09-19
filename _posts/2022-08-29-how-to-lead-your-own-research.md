@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "How to lead your own research as an early stage researcher"
 date:   2022-08-29 15:07:21 -0400
 categories: postbac research

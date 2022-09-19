@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "Epistemological responsibility, programming, and modeling, oh my!"
-date:   2022-09-18 15:07:21 -0400
-categories: rant
+date:   2022-09-18 00:00:00 -0400
+categories: research rant
+
 ---
 
 ![Picture of tangled wires symbolizing spaghetti code](assets/spaghetti-code-title.jpg "Photo Cred: https://exceptionnotfound.net/spaghetti-code-the-daily-software-anti-pattern/")

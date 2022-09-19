@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Lessons learned from my first year as a postbac"
 date:   2022-08-06 15:07:21 -0400
 categories: postbac research

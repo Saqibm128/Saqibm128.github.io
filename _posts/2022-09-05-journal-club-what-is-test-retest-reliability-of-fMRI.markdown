@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "What is test-retest reliability of fMRI?"
 date:   2022-09-05 15:07:21 -0400
 categories: postbac research journalclub

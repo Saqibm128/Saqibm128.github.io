@@ -1,5 +1,4 @@
 ---
-layout: page
 title: About Mohammed Saqib
 permalink: /about/
 ---
