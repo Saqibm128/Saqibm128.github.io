@@ -31,6 +31,11 @@ NINDS at NIH offered an internal 3 minute talk competition to explain science an
 ## Won the BEAT-PD Dream Challenge
 I worked with two friends from a previous summer internship to compete on predicting UPDRS scores and to quantify the relationship between subjective experience of Parkinson's disease patients to accelerometry and gyroscope data from their smartwatches. We worked and trained personalized random forest classifiers using an automated feature exploration and selection approach.
 
+## Summa Cum Laude Scholarship for BME and CS major
+
+## Stephen E. Browsette Scholarship
+I won an award for my research work in the intersection of health care and computer science.
+
 # Other work
 ## Patientco Alumni
 I worked as a software engineer on an integration team. We worked on using hospital EHR data and running ETL processes on large scale to create hospital bills. I worked on validating data and using the Athena datalake to help query large information out.
